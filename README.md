@@ -1,8 +1,5 @@
 ### Hi there 👋
-In my day job, I primarily write ruby and javascript.
 
-For personal use, I'm likely building small apps with react or writing scripts with python, or ruby of course.
+I talk to computers and get them to write scala, python, terraform and what not. For more than a decade, in my previous life, I used to build web apps using rails.
 
-I want to build an app or utility that would be useful for someone in their day to day life. Alas, I've started way too many side projects than I've ended.
-
-I write at https://srvr.in - but not always necessarily about software.
+If you're reading this to find more about me - you should go to [my website](https://srvr.in) where you could even see my [resume](https://srvr.in/resume) .
